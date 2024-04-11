@@ -84,13 +84,13 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
 
-- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE
+- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE.
 
 - Documentação do projeto de forma clara e de fácil acesso.
 
-- Utilização da Metodologia ágil
+- Utilização da Metodologia ágil.
 
-- Power BI / Jira / Canvas
+- Power BI / Jira / Canvas.
   
 
 ## COMPETÊNCIAS DESENVOLVIDAS 
