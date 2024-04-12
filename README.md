@@ -75,7 +75,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## FERRAMENTAS UTILIZADAS 
 
-- ### Metodologia Scrum: [Relatório Scrum](file:///C:/Users/Fatec/Desktop/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
+- ### Metodologia Scrum: ![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
 
 
 ## TECNILOGIAS ESPECÍFICAS/ APOIO
