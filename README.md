@@ -70,7 +70,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 - #### Burndown da Sprint 1
 
-![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/7236fffc-41fe-4cf1-82b6-aa557c525c4f)
+![image](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20das%20Sprint%201.jpeg)
+
 
 ## FERRAMENTAS UTILIZADAS 
 
