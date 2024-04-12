@@ -6,12 +6,11 @@ Projeto API - 1° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Burndown](#Burndown)
-* [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
-* [Competências desenvolvidas](#competências-desenvolvidas)
+* [Cronograma](#Conograma)
+* [Backlog](#Backlog)
+* [Burndown das Sprints](#Burndown)
+* [Tecnologias Especificas/ apoio](#TecnologiasEspecificas/apoio)
 
 
 ## Projeto 
@@ -88,8 +87,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## REGRAS DE NEGÓCIO
 
-- Desenvolvimento de estrutura relacional de tabelas com base nos dados disponibilizados.
-
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
 
 - Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE.
@@ -100,36 +97,6 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 - Power BI / Jira / Canvas.
   
-
-## COMPETÊNCIAS DESENVOLVIDAS 
-
-- ### Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Product Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Markdown | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Git Projects | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-
- </details>
-
-- ### Soft Skill (saber comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 
 </details>
