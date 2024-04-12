@@ -62,8 +62,15 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## BACKLOG
 
 * **Sprint 1 - Desenvolvimento do Projeto**
-![sprint backlog](https://github.com/RoqueMoura/Template/blob/main/.img/Burndown.PNG)
+  
+![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Sprint%201.jpeg)
 
+
+## BURNDOWN DAS SPRINTS
+
+- #### Burndown da Sprint 1
+
+![image](https://github.com/ATLASlog/ATLASlog/assets/141978742/7236fffc-41fe-4cf1-82b6-aa557c525c4f)
 
 ## FERRAMENTAS UTILIZADAS 
 
