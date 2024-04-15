@@ -52,11 +52,6 @@ Sprint | Previsão | Status| Histórico|
 |4| 17/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
-## CRONOGRAMA
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
-
-#### CRONOGRAMA DAS SPRINTS [(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
-
 
 ## BACKLOG
 
