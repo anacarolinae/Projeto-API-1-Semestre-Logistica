@@ -57,12 +57,26 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 1**
 
+* **Sprint 2**
+
+* **Sprint 3**
+
+* **Sprint 4**
+
+
+  
 ## BACKLOG DA SPRINT
 
 * **Sprint 1 - Desenvolvimento do Projeto**
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Sprint%201.jpeg)
 
+* **Sprint 1 - Implementação**
+
+* **Sprint 3 - Operacionalização**
+
+* **Sprint 4 - Produto Final**
+  
 
 ## BURNDOWN DAS SPRINTS
 
