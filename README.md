@@ -71,7 +71,7 @@ Sprint | Previsão | Status| Histórico|
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Sprint%201.jpeg)
 
-* **Sprint 1 - Implementação**
+* **Sprint 2 - Implementação**
 
 * **Sprint 3 - Operacionalização**
 
