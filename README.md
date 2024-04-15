@@ -8,7 +8,8 @@ Projeto API - 1° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Equipe](#equipe)
 * [Sprints](#Sprints)
 * [Cronograma](#Conograma)
-* [Backlog](#Backlog)
+* [Backlog do Produto](#BacklogProduto)
+* [Backlog das Sprints](#BacklogSprints)
 * [Burndown das Sprints](#Burndown)
 * [Tecnologias Especificas/ apoio](#TecnologiasEspecificas/apoio)
 
@@ -65,7 +66,7 @@ Sprint | Previsão | Status| Histórico|
 
 
   
-## BACKLOG DA SPRINT
+## BACKLOG DAS SPRINTS
 
 * **Sprint 1 - Desenvolvimento do Projeto**
   
