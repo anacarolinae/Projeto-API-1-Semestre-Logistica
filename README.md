@@ -53,7 +53,11 @@ Sprint | Previsão | Status| Histórico|
 |Feira de Soluções|27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
-## BACKLOG
+## BACKLOG DO PRODUTO
+
+* **Sprint 1**
+
+## BACKLOG DA SPRINT
 
 * **Sprint 1 - Desenvolvimento do Projeto**
   
