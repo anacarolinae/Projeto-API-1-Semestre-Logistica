@@ -33,7 +33,7 @@ Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o 
 ## EMPRESA
 
 <p align="center">
-  <img src=""/>
+  <img src="https://github.com/anacarolinae/LASJK/blob/main/Logo%20LASJK.png"/>
 
 </p>
 
