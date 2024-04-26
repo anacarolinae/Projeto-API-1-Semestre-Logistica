@@ -30,6 +30,25 @@ Desenvolvimento de uma interface gráfica que ofereça ao cliente uma análise v
 
 Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o ensino-aprendizado centrado no desenvolvimento de competências. Este projeto é fundamentado nos pilares do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizando estratégias para compreender o problema, conceber uma solução viável, desenvolver e implementar o MVP (Minimum Viable Product), seguido pela sua operação (CDIO).
 
+## EMPRESA
+
+<p align="center">
+  <img src=""/>
+
+</p>
+
+ 
+Missão
+ 
+ >Facilitar e impulsionar o sucesso de nossos clientes por meio da análise de dados de aeroportos, comprometemo-nos a fornecer percepções precisas e estratégicas que otimizem a eficiência operacional e a tomada de decisões.
+
+Visão
+
+ >Ser reconhecida como a principal autoridade em análise de dados de aeroportos, criando um impacto significativo no setor logístico. Pretendemos expandir nossos serviços para novas regiões e ser o parceiro de confiança de empresas em todo o mundo.
+
+Valores
+
+ >Excelência, inovação, integridade, colaboração e sustentabilidade.
 
 ## EQUIPE
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
