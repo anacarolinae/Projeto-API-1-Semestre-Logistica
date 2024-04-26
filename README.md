@@ -40,15 +40,15 @@ Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o 
  
 Missão
  
- >Facilitar e impulsionar o sucesso de nossos clientes por meio da análise de dados de aeroportos, comprometemo-nos a fornecer percepções precisas e estratégicas que otimizem a eficiência operacional e a tomada de decisões.
+ >Oferecer soluções logísticas inovadoras e eficientes, superando as expectativas dos clientes e contribuindo para o crescimento sustentável de seus negócios. Buscamos constantemente a excelência operacional, aprimorando nossos serviços e mantendo o mais alto padrão de qualidade.
 
 Visão
 
- >Ser reconhecida como a principal autoridade em análise de dados de aeroportos, criando um impacto significativo no setor logístico. Pretendemos expandir nossos serviços para novas regiões e ser o parceiro de confiança de empresas em todo o mundo.
+ >Ser reconhecida como líder no setor de logística, sendo referência em eficiência, confiabilidade e inovação. Buscamos constantemente expandir nossas operações e desenvolver novas soluções para atender às necessidades em constante evolução de nossos clientes, mantendo um compromisso inabalável com a excelência. 
 
 Valores
 
- >Excelência, inovação, integridade, colaboração e sustentabilidade.
+ >Compromisso com o Cliente: Colocamos as necessidades e satisfação dos clientes em primeiro lugar, buscando sempre superar suas expectativas.
 
 ## EQUIPE
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
