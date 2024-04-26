@@ -81,6 +81,8 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 2**
 
+![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%202.jpg)
+
 * **Sprint 3**
 
 * **Sprint 4**
@@ -94,8 +96,6 @@ Sprint | Previsão | Status| Histórico|
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%201.jpg)
 
 * **Sprint 2**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%202.jpg)
 
 * **Sprint 3**
 
