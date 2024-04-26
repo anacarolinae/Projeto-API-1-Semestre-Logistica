@@ -89,7 +89,7 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 1 - Desenvolvimento do Projeto**
   
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Sprint%201.jpeg)
+![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%201.jpg)
 
 * **Sprint 2 - Implementação**
 
@@ -102,7 +102,7 @@ Sprint | Previsão | Status| Histórico|
 
 - #### Burndown da Sprint 1
 
-![image](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%201.jpg)
+![image]()
 
 
 ## FERRAMENTAS UTILIZADAS 
