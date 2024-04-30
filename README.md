@@ -99,6 +99,8 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 2**
 
+![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%202.jpg)
+
 * **Sprint 3**
 
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%203.jpg)
