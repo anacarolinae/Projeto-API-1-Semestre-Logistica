@@ -1,4 +1,4 @@
-vbc vc # MAPEAMENTO DO POTENCIAL DE MOVIMENTAÇÃO DE CARGAS NO AEROPORTO DE SJK
+# MAPEAMENTO DO POTENCIAL DE MOVIMENTAÇÃO DE CARGAS NO AEROPORTO DE SJK
 
 Projeto API - 1° Semestre - Logística 2024, baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
 
