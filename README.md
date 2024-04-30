@@ -14,7 +14,7 @@ Projeto API - 1° Semestre - Logística 2024, baseado na metodologia ágil SCRUM
 * [Tecnologias Especificas/ apoio](#TecnologiasEspecificas/apoio)
 
 
-## Projeto 
+## PROJETO
 * **Introdução** 
 
 Nosso projeto de logística visa mapear potenciais cargas para movimentação
