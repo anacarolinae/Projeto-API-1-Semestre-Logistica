@@ -117,7 +117,7 @@ Sprint | Previsão | Status| Histórico|
 
 * **Burndown da Sprint 2**
 
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20da%20Sprint%201.png)
+![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%202.png)
 
 
 ## FERRAMENTAS UTILIZADAS 
