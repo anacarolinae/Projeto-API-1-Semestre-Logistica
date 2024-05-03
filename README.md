@@ -139,8 +139,6 @@ Sprint | Previsão | Status| Histórico|
 
 Apresentação do MVP:<p align="center">
 
-![ezgif com-video-to-gif (1)]()
-
 </p>
 
 
