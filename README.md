@@ -139,7 +139,7 @@ Sprint | Previsão | Status| Histórico|
 
 Apresentação do MVP:<p align="center">
 
-</p>
+![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/Dashboard%20MVP.jpg)
 
 
 ## REGRAS DE NEGÓCIO
