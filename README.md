@@ -111,7 +111,7 @@ Sprint | Previsão | Status| Histórico|
 
 ## BURNDOWN DAS SPRINTS
 
-- #### Burndown da Sprint 1
+- ### Burndown da Sprint 1
 
 
 ## FERRAMENTAS UTILIZADAS 
