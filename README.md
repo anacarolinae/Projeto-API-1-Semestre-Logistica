@@ -135,6 +135,15 @@ Sprint | Previsão | Status| Histórico|
 <img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px">
 
 
+## FUNCIONALIDADES E REGISTROS DAS SPRINTS
+
+Apresentação do MVP:<p align="center">
+
+![ezgif com-video-to-gif (1)]()
+
+</p>
+
+
 ## REGRAS DE NEGÓCIO
 
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
