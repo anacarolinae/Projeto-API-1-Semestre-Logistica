@@ -89,7 +89,7 @@ Sprint | Previsão | Status| Histórico|
 
 * **Sprint 4**
   
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%204.png)
+![sprint backlog]()
   
 ## BACKLOG DAS SPRINTS
 
