@@ -91,23 +91,6 @@ Sprint | Previsão | Status| Histórico|
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%204.png)
   
-## BACKLOG DAS SPRINTS
-
-* **Sprint 1**
-  
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%201.jpg)
-
-* **Sprint 2**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%202.jpg)
-
-* **Sprint 3**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%203.jpg)
-
-* **Sprint 4**
-
-![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Sprint%204.png)
 
 ## BURNDOWN DAS SPRINTS
 
