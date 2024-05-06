@@ -30,7 +30,7 @@ Desenvolvimento de uma interface gráfica que ofereça ao cliente uma análise v
 
 Desenvolvimento de um projeto pedagógico baseado na Metodologia API, visando o ensino-aprendizado centrado no desenvolvimento de competências. Este projeto é fundamentado nos pilares do aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. Utilizando estratégias para compreender o problema, conceber uma solução viável, desenvolver e implementar o MVP (Minimum Viable Product), seguido pela sua operação (CDIO).
 
-## EMPRESA
+## EMPRESA LASJK
 
 <p align="center">
   <img src="https://github.com/anacarolinae/LASJK/blob/main/Logo%20LASJK.png"/>
