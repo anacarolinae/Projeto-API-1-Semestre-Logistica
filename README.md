@@ -126,7 +126,7 @@ Apresentação do MVP Sprint 1:<p align="center">
 
 Apresentação do MVP Sprint 2:<p align="center">
 
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/Dashboard%20MVP.jpg)
+![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.jpeg)
 
 
 ## REGRAS DE NEGÓCIO
