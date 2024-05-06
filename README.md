@@ -120,13 +120,14 @@ Sprint | Previsão | Status| Histórico|
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
 
-Apresentação do MVP Sprint 1:<p align="center">
+- ### Apresentação do MVP Sprint 1:
 
 ![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%201.jpeg)
 
-Apresentação do MVP Sprint 2:<p align="center">
 
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.png)
+- ### Apresentação do MVP Sprint 2:
+  
+![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.png)  
 
 
 ## REGRAS DE NEGÓCIO
