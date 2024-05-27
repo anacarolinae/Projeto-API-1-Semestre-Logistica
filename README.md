@@ -136,6 +136,11 @@ Sprint | Previsão | Status| Histórico|
 ![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.png)  
 
 
+- ### Apresentação do MVP Sprint 3:
+  
+![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Spritn%203.pn)
+
+
 ## REGRAS DE NEGÓCIO
 
 - Criação de um Dashboard intuitivo para visualização dos dados apresentados.
