@@ -158,8 +158,8 @@ Sprint | Previsão | Status| Histórico|
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆  |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
  
 </details>
 
@@ -172,10 +172,10 @@ Sprint | Previsão | Status| Histórico|
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 
 
 </details>
