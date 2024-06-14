@@ -122,13 +122,9 @@ Sprint | Previsão | Status| Histórico|
 [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
 
 
-## TECNILOGIAS ESPECÍFICAS/ APOIO
+## TECNOLOGIAS ESPECÍFICAS/ APOIO
 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/a2b2af85-35be-45c2-8aa4-ac50af949e3f" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/8e762ff1-717d-4e80-a7c8-dd6da9a90b6f" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/e9dccc1f-a057-483d-b9c1-a8f1b570c3fb" width="40px"> 
-<img src= "https://github.com/ATLASlog/ATLASlog/assets/111469327/54ef2cf0-a0b0-4a94-b67d-3c5afb0ac89b" width="40px">
-
+![Tenologias Específicas](https://github.com/anacarolinae/LASJK/blob/main/Tecnologias%20Espec%C3%ADficas.png)
 
 ## FUNCIONALIDADES E REGISTROS DAS SPRINTS
 
