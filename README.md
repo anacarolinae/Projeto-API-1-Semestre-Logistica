@@ -117,7 +117,9 @@ Sprint | Previsão | Status| Histórico|
 
 - ### Metodologia Scrum:
 
-![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
+![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
+
+[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
 
 
 ## TECNILOGIAS ESPECÍFICAS/ APOIO
