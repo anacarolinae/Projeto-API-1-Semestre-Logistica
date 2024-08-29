@@ -131,8 +131,7 @@ Sprint | Previsão | Status| Histórico|
 
 - ### Apresentação do MVP Sprint 3:
   
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Spritn%203.png)
-
+- ### Apresentação do MVP Sprint 3:
 
 ## REGRAS DE NEGÓCIO
 
