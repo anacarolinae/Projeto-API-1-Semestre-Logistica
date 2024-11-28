@@ -68,11 +68,11 @@ Sprint | Previsão | Status| Histórico|
 
 ## BACKLOG DO PRODUTO
 
-* **Sprint 1**
+**Sprint 1**
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%201.jpg)
 
-* **Sprint 2**
+**Sprint 2**
 
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%202.png)
 
@@ -80,14 +80,14 @@ Sprint | Previsão | Status| Histórico|
 
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%203.png)
 
-* **Sprint 4**
+**Sprint 4**
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Backlog%20Produto%204.png)
   
 
 ## BURNDOWN DAS SPRINTS
 
-* **Burndown da Sprint 1**
+**Burndown da Sprint 1**
 
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%201.png)
 
@@ -95,60 +95,35 @@ Sprint | Previsão | Status| Histórico|
 
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%202.png)
 
-* **Burndown da Sprint 3**
+**Burndown da Sprint 3**
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%203.png)
 
-* **Burndown da Sprint 4**
+**Burndown da Sprint 4**
   
 ![sprint backlog](https://github.com/anacarolinae/LASJK/blob/main/Burndown%20Sprint%204.png)
 
 
 ## FERRAMENTAS UTILIZADAS 
-
-- ### Metodologia Scrum:
+### Metodologia Scrum:
 
 ![Relatório Scrum](https://github.com/anacarolinae/LASJK/blob/main/Metodologia%20Scrum.png)
 
-[Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
+> [Ver Relatório](https://github.com/anacarolinae/LASJK/blob/main/Relat%C3%B3rio%20M%C3%A9todo%20Scrum.pdf)
+
 
 
 ## TECNOLOGIAS ESPECÍFICAS/ APOIO
 
 ![Tenologias Específicas](https://github.com/anacarolinae/LASJK/blob/main/Tecnologias%20Espec%C3%ADficas.png)
 
-## FUNCIONALIDADES E REGISTROS DAS SPRINTS
+## FUNCIONALIDADES BACKLOG
 
-- ### Apresentação do MVP Sprint 1:
-
-![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%201.jpeg)
-
-
-- ### Apresentação do MVP Sprint 2:
-  
 ![Dashboard MVP](https://github.com/anacarolinae/LASJK/blob/main/MVP%20Sprint%202.png)  
-
-
-- ### Apresentação do MVP Sprint 3:
-  
-- ### Apresentação do MVP Sprint 3:
-
-## REGRAS DE NEGÓCIO
-
-- Criação de um Dashboard intuitivo para visualização dos dados apresentados.
-
-- Documentação no GitHub e gestão do projeto desenvolvida no JIRA SOFTWARE.
-
-- Documentação do projeto de forma clara e de fácil acesso.
-
-- Utilização da Metodologia ágil.
-
-- Power BI / Jira / Canvas.
-
 
 ## COMPETÊNCIAS DESENVOLVIDAS
 
-## Hard Skill (saber tecnológico)
+ ### Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -162,7 +137,7 @@ Sprint | Previsão | Status| Histórico|
 </details>
 
 
-## Soft Skill (saber comportamental)
+ ### Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
